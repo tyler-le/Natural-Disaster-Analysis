@@ -1,5 +1,4 @@
-Billion-Dollar Disasters By Year (CPI-Adjusted)
-year,state,"drought","flooding","freeze","severe storm","tropical cyclone","wildfire","winter storm"
+year,state,drought,flooding,freeze,severe storm,tropical cyclone,wildfire,winter storm
 1980,AK,0,0,0,0,0,0,0
 1980,AL,1,0,0,0,0,0,0
 1980,AR,1,1,0,0,0,0,0
