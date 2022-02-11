@@ -1,0 +1,1 @@
+this data was found on https://www.weather.gov/hazstat/ and selecting years for the "State Summary". The original was a PDF file so I used https://convertio.co/ to convert PDF to CSV and it works well.
