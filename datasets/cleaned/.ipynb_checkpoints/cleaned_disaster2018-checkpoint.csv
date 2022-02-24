@@ -1,0 +1,51 @@
+,state,fatalities,injuries,property_damage,crop_damage,total_damage,state_abbrv
+0,Alaska,0,0,3.89,0.0,3.89,AK
+1,Alabama,6,35,8.34,0.0,8.34,AL
+2,Arkansas,3,12,19.82,0.04,19.86,AR
+3,Arizona,4,44,67.45,0.0,67.45,AZ
+4,California,128,318,19500.67,150.0,19650.67,CA
+5,Colorado,13,9,669.22,0.21,669.43,CO
+6,Connecticut,3,6,8.19,0.0,8.19,CT
+7,Delaware,0,0,0.0,0.0,0.0,DE
+8,Florida,43,51,9909.3,1500.0,11409.3,FL
+9,Georgia,6,21,1545.98,2888.0,4433.99,GA
+10,Hawaii,3,6,28.45,0.02,28.47,HI
+11,Iowa,1,45,346.35,17.13,363.48,IA
+12,Idaho,3,0,43.25,0.0,43.25,ID
+13,Illinois,4,36,143.71,0.08,143.79,IL
+14,Indiana,7,1,14.94,0.18,15.12,IN
+15,Kansas,4,18,37.16,3.73,40.89,KS
+16,Kentucky,10,18,30.16,0.03,30.19,KY
+17,Louisiana,6,18,18.18,0.11,18.29,LA
+18,Massachusetts,2,6,9.57,0.0,9.57,MA
+19,Maryland,29,11,72.34,0.0,72.34,MD
+20,Maine,0,0,7.66,0.0,7.66,ME
+21,Michigan,7,3,201.52,0.02,201.54,MI
+22,Minnesota,2,8,44.74,1.57,46.3,MN
+23,Missouri,7,224,9.22,0.03,9.25,MO
+24,Mississippi,1,13,28.4,0.31,28.71,MS
+25,Montana,1,0,10.59,0.0,10.59,MT
+26,North Carolina,28,14,2023.53,430.12,2453.65,NC
+27,North Dakota,2,32,25.11,1.47,26.58,ND
+28,Nebraska,1,2,21.8,101.91,123.71,NE
+29,New Hampshire,2,9,3.45,0.0,3.45,NH
+30,New Jersey,3,7,4.14,0.0,4.14,NJ
+31,New Mexico,1,27,8.11,0.0,8.11,NM
+32,Nevada,74,6,16.76,0.0,16.76,NV
+33,New York,13,11,14.58,0.0,14.58,NY
+34,Ohio,1,4,15.89,0.05,15.94,OH
+35,Oklahoma,6,240,4.68,0.0,4.68,OK
+36,Oregon,11,0,1.23,0.01,1.24,OR
+37,Pennsylvania,5,16,30.65,0.38,31.03,PA
+38,Rhode Island,2,0,1.15,0.0,1.15,RI
+39,South Carolina,5,8,5.91,0.01,5.92,SC
+40,South Dakota,1,2,5.18,0.01,5.18,SD
+41,Tennessee,9,12,21.26,0.0,21.26,TN
+42,Texas,32,37,321.98,0.54,322.52,TX
+43,Utah,0,2,55.03,0.0,55.03,UT
+44,Virginia,14,19,93.63,0.31,93.94,VA
+45,Vermont,1,0,5.05,0.0,5.05,VT
+46,Washington,2,0,141.83,0.0,141.83,WA
+47,Wisconsin,12,11,181.95,4.22,186.17,WI
+48,West Virginia,3,0,6.73,0.0,6.74,WV
+49,Wyoming,2,5,10.2,0.0,10.2,WY
