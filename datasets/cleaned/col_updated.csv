@@ -42,7 +42,7 @@ Beckley,WV,80.0,"Beckley, WV","Beckley, Raleigh County, West Virginia, 25801, Un
 Bellingham,WA,111.6,"Bellingham, WA","Bellingham, Whatcom County, Washington, 98225-3243, United States",Whatcom County
 Bend,OR,115.9,"Bend, OR","Bend, Deschutes County, Oregon, United States",Deschutes County
 Billings,MT,95.7,"Billings, MT","Billings, Yellowstone County, Montana, United States",Yellowstone County
-Binghamton,NY,93.3,"Binghamton, NY","Binghamton, Broome County, New York, 13903, United States",Broome County
+Binghamton,NY,93.3,"Binghamton, NY","City of Binghamton, Broome County, New York, United States",Broome County
 Birmingham,AL,90.7,"Birmingham, AL","Birmingham, Jefferson County, Alabama, 35202, United States",Jefferson County
 Bismarck,ND,93.1,"Bismarck, ND","Bismarck, Burleigh County, North Dakota, United States",Burleigh County
 Blacksburg,VA,94.5,"Blacksburg, VA","Blacksburg, Montgomery County, Virginia, United States",Montgomery County
@@ -244,7 +244,7 @@ Lewiston,ID,92.5,"Lewiston, ID","Lewiston, Nez Perce County, Idaho, 83501, Unite
 Lewiston,ME,99.7,"Lewiston, ME","Lewiston, Androscoggin County, Maine, 04240, United States",Androscoggin County
 Lexington,KY,91.1,"Lexington, KY","Lexington, Fayette County, Kentucky, United States",Fayette County
 Lima,OH,87.2,"Lima, OH","Lima, Allen County, Ohio, 45801:45807, United States",Allen County
-Lincoln,NE,94.7,"Lincoln, NE","Lincoln, Lancaster County, Nebraska, 68508, United States",Lancaster County
+Lincoln,NE,94.7,"Lincoln, NE","Lincoln, Lancaster County, Nebraska, United States",Lancaster County
 Little Rock,AR,88.0,"Little Rock, AR","Little Rock, Pulaski County, Arkansas, 72201-1822, United States",Pulaski County
 London,KY,84.6,"London, KY","London, Laurel County, Kentucky, 40741, United States",Laurel County
 Longview,TX,88.5,"Longview, TX","Longview, Gregg County, Texas, United States",Gregg County
@@ -293,7 +293,7 @@ Mount Pleasant,MI,86.8,"Mount Pleasant, MI","Mount Pleasant, Isabella County, Mi
 Mount Vernon,WA,110.1,"Mount Vernon, WA","Mount Vernon, Skagit County, Washington, United States",Skagit County
 Muncie,IN,83.7,"Muncie, IN","Muncie, Delaware County, Indiana, 47305, United States",Delaware County
 Muskegon,MI,87.7,"Muskegon, MI","Muskegon, Muskegon County, Michigan, United States",Muskegon County
-Muskogee,OK,81.3,"Muskogee, OK","Muskogee, Muskogee County, Oklahoma, United States",Muskogee County
+Muskogee,OK,81.3,"Muskogee, OK","Muskogee, Muskogee County, Oklahoma, 74401, United States",Muskogee County
 Myrtle Beach,SC,94.7,"Myrtle Beach, SC","Myrtle Beach, Horry County, South Carolina, United States",Horry County
 Nacogdoches,TX,89.6,"Nacogdoches, TX","Nacogdoches County, Texas, United States",Nacogdoches County
 Napa,CA,149.6,"Napa, CA","Napa, Napa County, California, 94559, United States",Napa County
@@ -499,7 +499,7 @@ Hagerstown,MD,99.7,"Hagerstown, MD","Hagerstown, Washington County, Maryland, Un
 Logan,UT,95.2,"Logan, UT","Logan, Cache County, Utah, United States",Cache County
 Louisville,KY,91.6,"Louisville, KY","Louisville, Jefferson County, Kentucky, 40202-2923, United States",Jefferson County
 Miami,FL,110.1,"Miami, FL","Miami, Miami-Dade County, Florida, United States",Miami-Dade County
-Minneapolis,MN,105.4,"Minneapolis, MN","Minneapolis, Hennepin County, Minnesota, United States",Hennepin County
+Minneapolis,MN,105.4,"Minneapolis, MN","Minneapolis, Hennepin County, Minnesota, 55488, United States",Hennepin County
 Ventura,CA,132.2,"Ventura, CA","Ventura County, California, United States",Ventura County
 Melbourne,FL,99.3,"Melbourne, FL","Melbourne, Brevard County, Florida, United States",Brevard County
 Vero Beach,FL,98.9,"Vero Beach, FL","Vero Beach, Indian River County, Florida, United States",Indian River County
