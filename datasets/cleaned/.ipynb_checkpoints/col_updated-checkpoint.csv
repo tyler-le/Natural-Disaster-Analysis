@@ -1,0 +1,511 @@
+City,State,Cost of Living Index,city_state,geocode,county
+Abilene,TX,89.1,"Abilene, TX","Abilene, Taylor County, Texas, 79697, United States",Taylor County
+Adrian,MI,90.5,"Adrian, MI","Adrian, Lenawee County, Michigan, 49221, United States",Lenawee County
+Akron,OH,89.4,"Akron, OH","Akron, Summit County, Ohio, United States",Summit County
+Alamogordo,NM,85.8,"Alamogordo, NM","Alamogordo, Otero County, New Mexico, 88310, United States",Otero County
+Albany,GA,87.3,"Albany, GA","Albany, Dougherty County, Georgia, 31701, United States",Dougherty County
+Albany,OR,105.4,"Albany, OR","Albany, Linn County, Oregon, United States",Linn County
+Albany,NY,100.1,"Albany, NY","Albany, Albany County, New York, United States",Albany County
+Albertville,AL,90.9,"Albertville, AL","Albertville, Marshall County, Alabama, United States",Marshall County
+Albuquerque,NM,92.9,"Albuquerque, NM","Albuquerque, Bernalillo County, New Mexico, 87102, United States",Bernalillo County
+Alexandria,LA,86.2,"Alexandria, LA","Alexandria, Rapides Parish, Louisiana, 71301, United States",
+Allentown,PA,98.9,"Allentown, PA","Allentown, Lehigh County, Pennsylvania, United States",Lehigh County
+Altoona,PA,90.8,"Altoona, PA","Altoona, Blair County, Pennsylvania, United States",Blair County
+Amarillo,TX,88.2,"Amarillo, TX","Amarillo, Potter County, Texas, 79105, United States",Potter County
+Ames,IA,91.5,"Ames, IA","Ames, Story County, Iowa, 50010, United States",Story County
+Anchorage,AK,110.7,"Anchorage, AK","Anchorage, Alaska, 99501-2118, United States",
+Ann Arbor,MI,99.3,"Ann Arbor, MI","Ann Arbor, Washtenaw County, Michigan, United States",Washtenaw County
+Anniston,AL,85.7,"Anniston, AL","Anniston, Calhoun County, Alabama, 36202, United States",Calhoun County
+Appleton,WI,90.7,"Appleton, WI","Appleton, Outagamie County, Wisconsin, United States",Outagamie County
+Asheville,NC,103.3,"Asheville, NC","Asheville, Buncombe County, North Carolina, United States",Buncombe County
+Ashtabula,OH,87.4,"Ashtabula, OH","Ashtabula, Ashtabula County, Ohio, 44004, United States",Ashtabula County
+Athens,OH,88.5,"Athens, OH","Athens, Athens County, Ohio, 45701, United States",Athens County
+Athens,TX,92.9,"Athens, TX","Athens, Henderson County, Texas, United States",Henderson County
+Athens,GA,95.0,"Athens, GA","Athens-Clarke County Unified Government, Athens-Clarke County, Georgia, United States",Athens-Clarke County Unified Government
+Atlanta,GA,100.3,"Atlanta, GA","Atlanta, Fulton County, Georgia, 30303-3506, United States",Fulton County
+Atlantic City,NJ,102.0,"Atlantic City, NJ","Atlantic City, Atlantic County, New Jersey, 08404, United States",Atlantic County
+Auburn,NY,93.7,"Auburn, NY","City of Auburn, Cayuga County, New York, 13021, United States",Cayuga County
+Auburn,AL,91.9,"Auburn, AL","Auburn, Lee County, Alabama, 36949, United States",Lee County
+Augusta,GA,91.6,"Augusta, GA","Augusta, Richmond County, Georgia, United States",Richmond County
+Augusta,ME,100.0,"Augusta, ME","Augusta, Kennebec County, Maine, 04330, United States",Kennebec County
+Austin,TX,106.6,"Austin, TX","Austin, Travis County, Texas, United States",Travis County
+Bakersfield,CA,102.9,"Bakersfield, CA","Bakersfield, Kern County, California, United States",Kern County
+Baltimore,MD,107.0,"Baltimore, MD","Baltimore, Maryland, 21203, United States",
+Bangor,ME,98.0,"Bangor, ME","Bangor, Penobscot County, Maine, 04401, United States",Penobscot County
+Barnstable Town,MA,122.4,"Barnstable Town, MA","Barnstable, Town of Lewisboro, Westchester County, New York, 10518, United States",Westchester County
+Baton Rouge,LA,91.1,"Baton Rouge, LA","Baton Rouge, East Baton Rouge Parish, Louisiana, United States",
+Battle Creek,MI,85.9,"Battle Creek, MI","Battle Creek, Calhoun County, Michigan, 49014:49017, United States",Calhoun County
+Bay City,MI,85.4,"Bay City, MI","Bay City, Bay County, Michigan, 48708, United States",Bay County
+Beaumont,TX,88.6,"Beaumont, TX","Beaumont, Jefferson County, Texas, 77701, United States",Jefferson County
+Beaver Dam,WI,92.9,"Beaver Dam, WI","Beaver Dam, Dodge County, Wisconsin, 53916, United States",Dodge County
+Beckley,WV,80.0,"Beckley, WV","Beckley, Raleigh County, West Virginia, 25801, United States",Raleigh County
+Bellingham,WA,111.6,"Bellingham, WA","Bellingham, Whatcom County, Washington, 98225-3243, United States",Whatcom County
+Bend,OR,115.9,"Bend, OR","Bend, Deschutes County, Oregon, United States",Deschutes County
+Billings,MT,95.7,"Billings, MT","Billings, Yellowstone County, Montana, United States",Yellowstone County
+Binghamton,NY,93.3,"Binghamton, NY","City of Binghamton, Broome County, New York, United States",Broome County
+Birmingham,AL,90.7,"Birmingham, AL","Birmingham, Jefferson County, Alabama, 35202, United States",Jefferson County
+Bismarck,ND,93.1,"Bismarck, ND","Bismarck, Burleigh County, North Dakota, United States",Burleigh County
+Blacksburg,VA,94.5,"Blacksburg, VA","Blacksburg, Montgomery County, Virginia, United States",Montgomery County
+Bloomington,IN,92.4,"Bloomington, IN","Bloomington, Monroe County, Indiana, United States",Monroe County
+Bloomsburg,PA,93.2,"Bloomsburg, PA","Bloomsburg, Columbia County, Pennsylvania, 17815, United States",Columbia County
+Bluefield,WV,81.2,"Bluefield, WV","Bluefield, Mercer County, West Virginia, 24701, United States",Mercer County
+Boise City,ID,100.3,"Boise City, ID","Boise, Ada County, Idaho, 83701, United States",Ada County
+Boston,MA,132.6,"Boston, MA","Boston, Suffolk County, Massachusetts, 02102, United States",Suffolk County
+Boulder,CO,118.7,"Boulder, CO","Boulder, Boulder County, Colorado, 80306, United States",Boulder County
+Bowling Green,KY,87.0,"Bowling Green, KY","Bowling Green, Warren County, Kentucky, United States",Warren County
+Bozeman,MT,125.3,"Bozeman, MT","Bozeman, Gallatin County, Montana, 59715, United States",Gallatin County
+Brainerd,MN,97.9,"Brainerd, MN","Brainerd, Crow Wing County, Minnesota, 56401, United States",Crow Wing County
+Branson,MO,89.5,"Branson, MO","Branson, Taney County, Missouri, United States",Taney County
+Bremerton,WA,115.0,"Bremerton, WA","Bremerton, Kitsap County, Washington, 98337, United States",Kitsap County
+Brownsville,TX,87.8,"Brownsville, TX","Brownsville, Cameron County, Texas, United States",Cameron County
+Brunswick,GA,94.4,"Brunswick, GA","Brunswick, Glynn County, Georgia, United States",Glynn County
+Buffalo,NY,97.3,"Buffalo, NY","Buffalo, Erie County, New York, United States",Erie County
+Burlington,NC,91.8,"Burlington, NC","Burlington, Alamance County, North Carolina, 27216, United States",Alamance County
+Burlington,VT,112.8,"Burlington, VT","Burlington, Chittenden County, Vermont, 05401, United States",Chittenden County
+Canton,OH,88.2,"Canton, OH","Canton, Stark County, Ohio, United States",Stark County
+Cape Girardeau,MO,88.1,"Cape Girardeau, MO","Cape Girardeau, Cape Girardeau County, Missouri, 63703, United States",Cape Girardeau County
+Carbondale,IL,83.5,"Carbondale, IL","Carbondale, Jackson County, Illinois, United States",Jackson County
+Carson City,NV,103.0,"Carson City, NV","Carson City, Nevada, United States",
+Casper,WY,94.2,"Casper, WY","Casper, Natrona County, Wyoming, 82601, United States",Natrona County
+Cedar Rapids,IA,88.1,"Cedar Rapids, IA","Cedar Rapids, Linn County, Iowa, United States",Linn County
+Centralia,WA,103.3,"Centralia, WA","Centralia, Lewis County, Washington, 98531-4320, United States",Lewis County
+Chambersburg,PA,95.7,"Chambersburg, PA","Chambersburg, Franklin County, Pennsylvania, United States",Franklin County
+Champaign,IL,89.0,"Champaign, IL","Champaign, Champaign County, Illinois, United States",Champaign County
+Charleston,WV,83.9,"Charleston, WV","Charleston, Kanawha County, West Virginia, United States",Kanawha County
+Charleston,SC,101.7,"Charleston, SC","Charleston, Charleston County, South Carolina, United States",Charleston County
+Charlotte,NC,97.9,"Charlotte, NC","Charlotte, Mecklenburg County, North Carolina, United States",Mecklenburg County
+Charlottesville,VA,102.1,"Charlottesville, VA","Charlottesville, Virginia, United States",
+Chattanooga,TN,91.2,"Chattanooga, TN","Chattanooga, Hamilton County, Tennessee, 818, United States",Hamilton County
+Cheyenne,WY,96.9,"Cheyenne, WY","Cheyenne, Laramie County, Wyoming, United States",Laramie County
+Chicago,IL,100.1,"Chicago, IL","Chicago, Cook County, Illinois, United States",Cook County
+Chico,CA,110.5,"Chico, CA","Chico, Butte County, California, United States",Butte County
+Chillicothe,OH,89.8,"Chillicothe, OH","Chillicothe, Ross County, Ohio, United States",Ross County
+Cincinnati,OH,92.4,"Cincinnati, OH","Cincinnati, Hamilton County, Ohio, United States",Hamilton County
+Claremont,NH,102.3,"Claremont, NH","Claremont, Sullivan County, New Hampshire, 03743, United States",Sullivan County
+Clarksburg,WV,83.4,"Clarksburg, WV","Clarksburg, Harrison County, West Virginia, United States",Harrison County
+Clarksville,TN,88.7,"Clarksville, TN","Clarksville, Montgomery County, Tennessee, 37044, United States",Montgomery County
+Clearlake,CA,108.8,"Clearlake, CA","Clearlake, Lake County, California, 95422, United States",Lake County
+Cleveland,TN,89.5,"Cleveland, TN","Cleveland, Bradley County, Tennessee, United States",Bradley County
+Cleveland,OH,90.0,"Cleveland, OH","Cleveland, Cuyahoga County, Ohio, 44113, United States",Cuyahoga County
+Coeur d'Alene,ID,103.3,"Coeur d'Alene, ID","Coeur d'Alene, Kootenai County, Idaho, United States",Kootenai County
+College Station,TX,92.3,"College Station, TX","College Station, Brazos County, Texas, United States",Brazos County
+Colorado Springs,CO,102.2,"Colorado Springs, CO","Colorado Springs, El Paso County, Colorado, 80903, United States",El Paso County
+Columbia,MO,89.8,"Columbia, MO","Columbia, Boone County, Missouri, United States",Boone County
+Columbia,SC,91.9,"Columbia, SC","Columbia, Richland County, South Carolina, United States",Richland County
+Columbus,GA,88.5,"Columbus, GA","Columbus, Muscogee County, Georgia, United States",Muscogee County
+Columbus,IN,89.1,"Columbus, IN","Columbus, Bartholomew County, Indiana, United States",Bartholomew County
+Columbus,OH,93.9,"Columbus, OH","Columbus, Franklin County, Ohio, United States",Franklin County
+Concord,NH,108.3,"Concord, NH","Concord, Merrimack County, New Hampshire, United States",Merrimack County
+Cookeville,TN,90.9,"Cookeville, TN","Cookeville, Putnam County, Tennessee, United States",Putnam County
+Coos Bay,OR,102.0,"Coos Bay, OR","Coos Bay, Coos County, Oregon, United States",Coos County
+Corning,NY,90.9,"Corning, NY","Elmira, Corning, and Waverly Trolley, NY 352, Big Flats, Town of Big Flats, Chemung County, New York, 14814:14903, United States",Chemung County
+Corpus Christi,TX,93.3,"Corpus Christi, TX","Corpus Christi, Nueces County, Texas, United States",Nueces County
+Corvallis,OR,110.6,"Corvallis, OR","Corvallis, Benton County, Oregon, United States",Benton County
+Cullman,AL,90.5,"Cullman, AL","Cullman County, Alabama, United States",Cullman County
+Cumberland,MD,90.9,"Cumberland, MD","Cumberland, Allegany County, Maryland, 21502, United States",Allegany County
+Dalton,GA,89.1,"Dalton, GA","Dalton, Whitfield County, Georgia, 30720, United States",Whitfield County
+Danville,IL,83.9,"Danville, IL","Danville, Vermilion County, Illinois, United States",Vermilion County
+Danville,VA,87.1,"Danville, VA","Danville, Virginia, United States",
+Dayton,OH,88.4,"Dayton, OH","Dayton, Montgomery County, Ohio, 45423, United States",Montgomery County
+Decatur,AL,88.6,"Decatur, AL","Decatur, Morgan County, Alabama, 35602, United States",Morgan County
+Decatur,IL,84.9,"Decatur, IL","Decatur, Macon County, Illinois, United States",Macon County
+Denver,CO,112.1,"Denver, CO","Denver, Colorado, United States",
+Des Moines,IA,91.7,"Des Moines, IA","Des Moines, Polk County, Iowa, United States",Polk County
+Detroit,MI,93.2,"Detroit, MI","Detroit, Wayne County, Michigan, United States",Wayne County
+Dothan,AL,86.3,"Dothan, AL","Dothan, Houston County, Alabama, 36303-5834, United States",Houston County
+Dover,DE,101.3,"Dover, DE","Dover, Kent County, Delaware, United States",Kent County
+DuBois,PA,88.2,"DuBois, PA","DuBois, Clearfield County, Pennsylvania, 15801, United States",Clearfield County
+Dubuque,IA,89.6,"Dubuque, IA","Dubuque, Dubuque County, Iowa, 52001, United States",Dubuque County
+Duluth,MN,93.2,"Duluth, MN","Duluth, Saint Louis County, Minnesota, United States",Saint Louis County
+Dunn,NC,91.4,"Dunn, NC","Dunn, Harnett County, North Carolina, 28334, United States",Harnett County
+Durham,NC,99.8,"Durham, NC","Durham, Durham County, North Carolina, United States",Durham County
+East Stroudsburg,PA,96.1,"East Stroudsburg, PA","East Stroudsburg, Monroe County, Pennsylvania, 18301, United States",Monroe County
+Eau Claire,WI,91.8,"Eau Claire, WI","Eau Claire, Eau Claire County, Wisconsin, United States",Eau Claire County
+El Centro,CA,102.3,"El Centro, CA","El Centro, Imperial County, California, 92243, United States",Imperial County
+El Paso,TX,88.6,"El Paso, TX","El Paso, El Paso County, Texas, United States",El Paso County
+Elizabeth City,NC,91.1,"Elizabeth City, NC","Elizabeth City, Pasquotank County, North Carolina, United States",Pasquotank County
+Elizabethtown,KY,88.1,"Elizabethtown, KY","Elizabethtown, Hardin County, Kentucky, 42701, United States",Hardin County
+Elkhart,IN,88.5,"Elkhart, IN","Elkhart, Elkhart County, Indiana, 46515, United States",Elkhart County
+Elmira,NY,92.5,"Elmira, NY","Elmira, City of Elmira, Chemung County, New York, 14904-1306, United States",Chemung County
+Enid,OK,82.9,"Enid, OK","Enid, Garfield County, Oklahoma, K, United States",Garfield County
+Erie,PA,91.8,"Erie, PA","Erie, Erie County, Pennsylvania, 16530, United States",Erie County
+Eugene,OR,108.4,"Eugene, OR","Eugene, Lane County, Oregon, United States",Lane County
+Eureka,CA,116.5,"Eureka, CA","Eureka, Humboldt County, California, 95502, United States",Humboldt County
+Evansville,IN,87.2,"Evansville, IN","Evansville, Vanderburgh County, Indiana, United States",Vanderburgh County
+Fairbanks,AK,107.9,"Fairbanks, AK","Fairbanks, Fairbanks North Star, Alaska, United States",
+Fargo,ND,91.4,"Fargo, ND","Fargo, Cass County, North Dakota, 58102-4608, United States",Cass County
+Faribault,MN,102.3,"Faribault, MN","Faribault County, Minnesota, United States",Faribault County
+Farmington,MO,85.4,"Farmington, MO","Farmington, San Juan County, New Mexico, 87401, United States",San Juan County
+Farmington,NM,88.4,"Farmington, NM","Farmington, San Juan County, New Mexico, 87401, United States",San Juan County
+Fayetteville,NC,89.5,"Fayetteville, NC","Fayetteville, Cumberland County, North Carolina, United States",Cumberland County
+Fayetteville,AR,90.4,"Fayetteville, AR","Fayetteville, Washington County, Arkansas, 72701, United States",Washington County
+Findlay,OH,91.1,"Findlay, OH","Findlay, Hancock County, Ohio, 45840, United States",Hancock County
+Flagstaff,AZ,108.5,"Flagstaff, AZ","Flagstaff, Coconino County, Arizona, 86001, United States",Coconino County
+Flint,MI,85.7,"Flint, MI","Flint, Genesee County, Michigan, United States",Genesee County
+Florence,SC,87.7,"Florence, SC","Florence, Florence County, South Carolina, 29502, United States",Florence County
+Florence,AL,86.8,"Florence, AL","Florence, Lauderdale County, Alabama, 35631, United States",Lauderdale County
+Fond du Lac,WI,88.0,"Fond du Lac, WI","Fond du Lac, Fond du Lac County, Wisconsin, 54935, United States",Fond du Lac County
+Forest City,NC,89.4,"Forest City, NC","Forest City, Rutherford County, North Carolina, 28043, United States",Rutherford County
+Fort Collins,CO,109.2,"Fort Collins, CO","Fort Collins, Larimer County, Colorado, 80525-2227, United States",Larimer County
+Fort Smith,AR,84.2,"Fort Smith, AR","Fort Smith, Sebastian County, Arkansas, United States",Sebastian County
+Fort Wayne,IN,86.8,"Fort Wayne, IN","Fort Wayne, Allen County, Indiana, 46802, United States",Allen County
+Frankfort,KY,88.1,"Frankfort, KY","Frankfort, Franklin County, Kentucky, 40601, United States",Franklin County
+Fresno,CA,105.9,"Fresno, CA","Fresno, Fresno County, California, United States",Fresno County
+Gadsden,AL,86.0,"Gadsden, AL","Gadsden, Etowah County, Alabama, 35901, United States",Etowah County
+Gainesville,FL,97.3,"Gainesville, FL","Gainesville, Alachua County, Florida, United States",Alachua County
+Gainesville,GA,97.0,"Gainesville, GA","Gainesville, Hall County, Georgia, 30501, United States",Hall County
+Gallup,NM,90.0,"Gallup, NM","Gallup, McKinley County, New Mexico, United States",McKinley County
+Gettysburg,PA,98.2,"Gettysburg, PA","Gettysburg, Adams County, Pennsylvania, 17325, United States",Adams County
+Glens Falls,NY,98.6,"Glens Falls, NY","Glens Falls, Warren County, New York, 12801, United States",Warren County
+Goldsboro,NC,88.5,"Goldsboro, NC","Goldsboro, Wayne County, North Carolina, United States",Wayne County
+Grand Forks,ND,90.7,"Grand Forks, ND","Grand Forks, Grand Forks County, North Dakota, United States",Grand Forks County
+Grand Island,NE,88.8,"Grand Island, NE","Grand Island, Hall County, Nebraska, 68802, United States",Hall County
+Grand Junction,CO,98.1,"Grand Junction, CO","Grand Junction, Mesa County, Colorado, United States",Mesa County
+Grand Rapids,MI,93.7,"Grand Rapids, MI","Grand Rapids, Kent County, Michigan, United States",Kent County
+Grants Pass,OR,106.6,"Grants Pass, OR","Grants Pass, Josephine County, Oregon, United States",Josephine County
+Great Falls,MT,91.1,"Great Falls, MT","Great Falls, Cascade County, Montana, 59401, United States",Cascade County
+Greeley,CO,106.1,"Greeley, CO","Greeley, Colorado, United States",
+Green Bay,WI,91.4,"Green Bay, WI","Green Bay, Brown County, Wisconsin, United States",Brown County
+Greeneville,TN,86.5,"Greeneville, TN","Greeneville, Greene County, Tennessee, United States",Greene County
+Greensboro,NC,91.0,"Greensboro, NC","Greensboro, Guilford County, North Carolina, United States",Guilford County
+Greenville,NC,89.8,"Greenville, NC","Greenville, Pitt County, North Carolina, United States",Pitt County
+Greenville,SC,95.0,"Greenville, SC","Greenville, Greenville County, South Carolina, United States",Greenville County
+Greenwood,SC,88.7,"Greenwood, SC","Greenwood, Greenwood County, South Carolina, United States",Greenwood County
+Gulfport,MS,86.8,"Gulfport, MS","Gulfport, Harrison County, Mississippi, 39502, United States",Harrison County
+Hammond,LA,89.0,"Hammond, LA","Hammond, Tangipahoa Parish, Louisiana, United States",
+Hanford,CA,105.4,"Hanford, CA","Hanford, Kings County, California, 93230, United States",Kings County
+Harrisburg,PA,95.8,"Harrisburg, PA","Harrisburg, Dauphin County, Pennsylvania, United States",Dauphin County
+Harrisonburg,VA,95.5,"Harrisonburg, VA","Harrisonburg, Virginia, United States",
+Hartford,CT,104.8,"Hartford, CT","Hartford, Hartford County, Connecticut, United States",Hartford County
+Hattiesburg,MS,86.1,"Hattiesburg, MS","Hattiesburg, Forrest County, Mississippi, 39403, United States",Forrest County
+Helena,MT,104.2,"Helena, MT","Helena, Lewis and Clark County, Montana, United States",Lewis and Clark County
+Hickory,NC,89.8,"Hickory, NC","Hickory, Catawba County, North Carolina, 28602, United States",Catawba County
+Hilo,HI,136.9,"Hilo, HI","Hilo CDP, Hawaiʻi County, Hawaii, United States",Hawaiʻi County
+Hilton Head Island,SC,109.4,"Hilton Head Island, SC","Hilton Head Island, Beaufort County, South Carolina, United States",Beaufort County
+Hinesville,GA,90.8,"Hinesville, GA","Hinesville, Liberty County, Georgia, 31313, United States",Liberty County
+Hobbs,NM,87.7,"Hobbs, NM","Hobbs, Lea County, New Mexico, 88214, United States",Lea County
+Homosassa Springs,FL,95.5,"Homosassa Springs, FL","Homosassa Springs, Citrus County, Florida, 34447, United States",Citrus County
+Hot Springs,AR,87.3,"Hot Springs, AR","Hot Springs, Garland County, Arkansas, United States",Garland County
+Houma,LA,89.9,"Houma, LA","Houma, Terrebonne Parish, Louisiana, United States",
+Houston,TX,95.8,"Houston, TX","Houston, Harris County, Texas, United States",Harris County
+Huntington,WV,84.3,"Huntington, WV","Huntington, Cabell County, West Virginia, United States",Cabell County
+Huntsville,AL,91.3,"Huntsville, AL","Huntsville, Madison County, Alabama, 35804, United States",Madison County
+Huntsville,TX,91.2,"Huntsville, TX","Huntsville, Walker County, Texas, United States",Walker County
+Hutchinson,KS,84.0,"Hutchinson, KS","Hutchinson, Reno County, Kansas, 67504, United States",Reno County
+Idaho Falls,ID,91.7,"Idaho Falls, ID","Idaho Falls, Bonneville County, Idaho, 83403, United States",Bonneville County
+Indiana,PA,90.8,"Indiana, PA","Indiana, Indiana County, Pennsylvania, United States",Indiana County
+Indianapolis,IN,90.2,"Indianapolis, IN","Indianapolis, Marion County, Indiana, United States",Marion County
+Iowa City,IA,93.5,"Iowa City, IA","Iowa City, Johnson County, Iowa, 52240-5544, United States",Johnson County
+Ithaca,NY,101.7,"Ithaca, NY","City of Ithaca, Tompkins County, New York, United States",Tompkins County
+Jackson,MI,87.4,"Jackson, MI","Jackson, Hinds County, Mississippi, United States",Hinds County
+Jackson,MS,87.8,"Jackson, MS","Jackson, Hinds County, Mississippi, United States",Hinds County
+Jackson,TN,85.2,"Jackson, TN","Jackson, Madison County, Tennessee, 38301, United States",Madison County
+Jacksonville,FL,99.0,"Jacksonville, FL","Jacksonville, Duval County, Florida, United States",Duval County
+Jacksonville,NC,91.7,"Jacksonville, NC","Jacksonville, Onslow County, North Carolina, 28540, United States",Onslow County
+Jamestown,NY,91.3,"Jamestown, NY","City of Jamestown, Chautauqua County, New York, United States",Chautauqua County
+Janesville,WI,89.8,"Janesville, WI","Janesville, Rock County, Wisconsin, United States",Rock County
+Jefferson City,MO,86.3,"Jefferson City, MO","Jefferson City, Cole County, Missouri, United States",Cole County
+Johnson City,TN,88.1,"Johnson City, TN","Johnson City, Washington County, Tennessee, United States",Washington County
+Johnstown,PA,87.6,"Johnstown, PA","Johnstown, Cambria County, Pennsylvania, United States",Cambria County
+Jonesboro,AR,85.2,"Jonesboro, AR","Jonesboro, Craighead County, Arkansas, United States",Craighead County
+Joplin,MO,85.2,"Joplin, MO","Joplin, Jasper County, Missouri, 64801, United States",Jasper County
+Kahului,HI,158.5,"Kahului, HI","Kahului, Maui County, Hawaii, United States",Maui County
+Kalamazoo,MI,89.3,"Kalamazoo, MI","Kalamazoo, Kalamazoo County, Michigan, United States",Kalamazoo County
+Kalispell,MT,112.7,"Kalispell, MT","Kalispell, Flathead County, Montana, 59901-4451, United States",Flathead County
+Kankakee,IL,91.0,"Kankakee, IL","Kankakee County, Illinois, United States",Kankakee County
+Kansas City,MO,91.6,"Kansas City, MO","Kansas City, Downtown Kansas City, Jackson County, Missouri, 64106-2303, United States",Jackson County
+Kapaa,HI,164.9,"Kapaa, HI","Kapaa, Kauaʻi County, Hawaii, 96751, United States",Kauaʻi County
+Keene,NH,102.1,"Keene, NH","Keene, Cheshire County, New Hampshire, 03435, United States",Cheshire County
+Kennewick,WA,99.7,"Kennewick, WA","Kennewick, Benton County, Washington, 99337, United States",Benton County
+Key West,FL,140.0,"Key West, FL","Key West, Monroe County, Florida, United States",Monroe County
+Killeen,TX,88.6,"Killeen, TX","Killeen, Bell County, Texas, United States",Bell County
+Kingsport,TN,86.0,"Kingsport, TN","Kingsport, Sullivan County, Tennessee, United States",Sullivan County
+Kingston,NY,106.1,"Kingston, NY","Kingston, Ulster County, New York, 12401, United States",Ulster County
+Klamath Falls,OR,97.1,"Klamath Falls, OR","Klamath Falls, Klamath County, Oregon, 97601, United States",Klamath County
+Knoxville,TN,91.6,"Knoxville, TN","Knoxville, Knox County, Tennessee, United States",Knox County
+Kokomo,IN,84.9,"Kokomo, IN","Kokomo, Howard County, Indiana, United States",Howard County
+La Crosse,WI,91.8,"La Crosse, WI","La Crosse, La Crosse County, Wisconsin, 54602, United States",La Crosse County
+Lafayette,LA,89.6,"Lafayette, LA","Lafayette, Lafayette Parish, Louisiana, 70502, United States",
+LaGrange,GA,86.0,"LaGrange, GA","LaGrange, Troup County, Georgia, United States",Troup County
+Lake Charles,LA,89.4,"Lake Charles, LA","Lake Charles, Calcasieu Parish, Louisiana, United States",
+Lake City,FL,93.6,"Lake City, FL","Lake CIty, Columbia County, Florida, United States",Columbia County
+Lake Havasu City,AZ,98.4,"Lake Havasu City, AZ","Lake Havasu City, Mohave County, Arizona, 86403, United States",Mohave County
+Lakeland,FL,96.4,"Lakeland, FL","Lakeland, Polk County, Florida, 33081, United States",Polk County
+Lancaster,PA,99.5,"Lancaster, PA","Lancaster, Lancaster County, Pennsylvania, United States",Lancaster County
+Lansing,MI,88.7,"Lansing, MI","Lansing, Ingham County, Michigan, United States",Ingham County
+Laredo,TX,90.1,"Laredo, TX","Laredo, Webb County, Texas, United States",Webb County
+Las Cruces,NM,88.8,"Las Cruces, NM","Las Cruces, Doña Ana County, New Mexico, United States",Doña Ana County
+Las Vegas,NV,100.7,"Las Vegas, NV","Las Vegas, Clark County, Nevada, United States",Clark County
+Laurel,MS,85.9,"Laurel, MS","Laurel, Jones County, Mississippi, 39440, United States",Jones County
+Lawrence,KS,91.6,"Lawrence, KS","Lawrence, Douglas County, Kansas, United States",Douglas County
+Lawton,OK,82.8,"Lawton, OK","Lawton, Comanche County, Oklahoma, 73501, United States",Comanche County
+Lebanon,PA,95.4,"Lebanon, PA","Lebanon, Lebanon County, Pennsylvania, United States",Lebanon County
+Lewiston,ID,92.5,"Lewiston, ID","Lewiston, Nez Perce County, Idaho, 83501, United States",Nez Perce County
+Lewiston,ME,99.7,"Lewiston, ME","Lewiston, Androscoggin County, Maine, 04240, United States",Androscoggin County
+Lexington,KY,91.1,"Lexington, KY","Lexington, Fayette County, Kentucky, United States",Fayette County
+Lima,OH,87.2,"Lima, OH","Lima, Allen County, Ohio, 45801:45807, United States",Allen County
+Lincoln,NE,94.7,"Lincoln, NE","Lincoln, Lancaster County, Nebraska, United States",Lancaster County
+Little Rock,AR,88.0,"Little Rock, AR","Little Rock, Pulaski County, Arkansas, 72201-1822, United States",Pulaski County
+London,KY,84.6,"London, KY","London, Laurel County, Kentucky, 40741, United States",Laurel County
+Longview,TX,88.5,"Longview, TX","Longview, Gregg County, Texas, United States",Gregg County
+Longview,WA,101.6,"Longview, WA","Longview, Cowlitz County, Washington, United States",Cowlitz County
+Lubbock,TX,88.8,"Lubbock, TX","Lubbock, Lubbock County, Texas, United States",Lubbock County
+Lufkin,TX,88.2,"Lufkin, TX","Lufkin, Angelina County, Texas, United States",Angelina County
+Lumberton,NC,83.4,"Lumberton, NC","Lumberton, Robeson County, North Carolina, 28360:28372, United States",Robeson County
+Lynchburg,VA,93.6,"Lynchburg, VA","Lynchburg, Virginia, United States",
+Macon,GA,87.2,"Macon, GA","Macon, Bibb County, Georgia, United States",Bibb County
+Madera,CA,108.9,"Madera, CA","Madera, Madera County, California, 93637, United States",Madera County
+Madison,WI,99.5,"Madison, WI","Madison, Dane County, Wisconsin, United States",Dane County
+Manchester,NH,109.6,"Manchester, NH","Manchester, Hillsborough County, New Hampshire, 03108, United States",Hillsborough County
+Manhattan,KS,89.6,"Manhattan, KS","Manhattan, Riley County, Kansas, 66502-6322, United States",Riley County
+Manitowoc,WI,87.8,"Manitowoc, WI","Manitowoc, Manitowoc County, Wisconsin, United States",Manitowoc County
+Mankato,MN,95.3,"Mankato, MN","Mankato, Blue Earth County, Minnesota, 56001, United States",Blue Earth County
+Mansfield,OH,86.2,"Mansfield, OH","Mansfield, Richland County, Ohio, 44902, United States",Richland County
+Marinette,WI,86.6,"Marinette, WI","Marinette, Marinette County, Wisconsin, 54143, United States",Marinette County
+Marion,IN,81.8,"Marion, IN","Marion, Grant County, Indiana, United States",Grant County
+Marion,OH,85.7,"Marion, OH","Marion, Marion County, Ohio, 43302, United States",Marion County
+Marquette,MI,91.3,"Marquette, MI","Marquette County, Michigan, United States",Marquette County
+Marshall,TX,89.9,"Marshall, TX","Marshall, Harrison County, Texas, United States",Harrison County
+Martinsville,VA,85.0,"Martinsville, VA","Martinsville, Virginia, United States",
+McAllen,TX,86.0,"McAllen, TX","McAllen, Hidalgo County, Texas, 78501, United States",Hidalgo County
+Meadville,PA,88.5,"Meadville, PA","Meadville, Crawford County, Pennsylvania, United States",Crawford County
+Medford,OR,107.5,"Medford, OR","Medford, Jackson County, Oregon, United States",Jackson County
+Memphis,TN,88.2,"Memphis, TN","Memphis, Shelby County, West Tennessee, Tennessee, 38112, United States",Shelby County
+Merced,CA,108.2,"Merced, CA","Merced County, California, United States",Merced County
+Meridian,MS,82.0,"Meridian, MS","Meridian, Lauderdale County, Mississippi, 39302, United States",Lauderdale County
+Michigan City,IN,87.8,"Michigan City, IN","Michigan City, LaPorte County, Indiana, United States",LaPorte County
+Midland,MI,87.0,"Midland, MI","Midland, Midland County, Texas, United States",Midland County
+Midland,TX,97.8,"Midland, TX","Midland, Midland County, Texas, United States",Midland County
+Milwaukee,WI,93.8,"Milwaukee, WI","Milwaukee, Milwaukee County, Wisconsin, United States",Milwaukee County
+Minot,ND,90.7,"Minot, ND","Minot, Ward County, North Dakota, 58702, United States",Ward County
+Missoula,MT,103.4,"Missoula, MT","Missoula, Missoula County, Montana, United States",Missoula County
+Mobile,AL,88.3,"Mobile, AL","Mobile, Mobile County, Alabama, United States",Mobile County
+Modesto,CA,112.3,"Modesto, CA","Modesto, Stanislaus County, California, United States",Stanislaus County
+Monroe,LA,86.5,"Monroe, LA","Monroe County, Alabama, United States",Monroe County
+Monroe,MI,90.5,"Monroe, MI","Monroe County, Michigan, United States",Monroe County
+Montgomery,AL,88.5,"Montgomery, AL","Montgomery, Montgomery County, Alabama, United States",Montgomery County
+Morehead City,NC,102.2,"Morehead City, NC","Morehead City, Carteret County, North Carolina, 28557, United States",Carteret County
+Morgantown,WV,88.5,"Morgantown, WV","Morgantown, Monongalia County, West Virginia, United States",Monongalia County
+Morristown,TN,87.3,"Morristown, TN","Morristown, Hamblen County, Tennessee, United States",Hamblen County
+Moses Lake,WA,95.7,"Moses Lake, WA","Moses Lake, Grant County, Washington, 98837, United States",Grant County
+Mount Airy,NC,89.0,"Mount Airy, NC","Mount Airy, Surry County, North Carolina, 27030, United States",Surry County
+Mount Pleasant,MI,86.8,"Mount Pleasant, MI","Mount Pleasant, Isabella County, Michigan, United States",Isabella County
+Mount Vernon,WA,110.1,"Mount Vernon, WA","Mount Vernon, Skagit County, Washington, United States",Skagit County
+Muncie,IN,83.7,"Muncie, IN","Muncie, Delaware County, Indiana, 47305, United States",Delaware County
+Muskegon,MI,87.7,"Muskegon, MI","Muskegon, Muskegon County, Michigan, United States",Muskegon County
+Muskogee,OK,81.3,"Muskogee, OK","Muskogee, Muskogee County, Oklahoma, 74401, United States",Muskogee County
+Myrtle Beach,SC,94.7,"Myrtle Beach, SC","Myrtle Beach, Horry County, South Carolina, United States",Horry County
+Nacogdoches,TX,89.6,"Nacogdoches, TX","Nacogdoches County, Texas, United States",Nacogdoches County
+Napa,CA,149.6,"Napa, CA","Napa, Napa County, California, 94559, United States",Napa County
+Naples,FL,109.4,"Naples, FL","Naples, Collier County, Florida, United States",Collier County
+Nashville,TN,100.1,"Nashville, TN","Nashville-Davidson, Davidson County, Tennessee, United States",Davidson County
+New Bern,NC,90.2,"New Bern, NC","New Bern, Craven County, North Carolina, United States",Craven County
+New Castle,PA,88.1,"New Castle, PA","New Castle, Lawrence County, Pennsylvania, United States",Lawrence County
+New Haven,CT,107.7,"New Haven, CT","New Haven, New Haven County, Connecticut, United States",New Haven County
+New Orleans,LA,92.4,"New Orleans, LA","New Orleans, Orleans Parish, Louisiana, 70116:70119, United States",
+New Philadelphia,OH,88.9,"New Philadelphia, OH","New Philadelphia, Tuscarawas County, Ohio, United States",Tuscarawas County
+New York,NY,128.0,"New York, NY","New York, United States",
+Niles,MI,89.7,"Niles, MI","Niles, Berrien County, Michigan, 49120, United States",Berrien County
+North Wilkesboro,NC,90.5,"North Wilkesboro, NC","North Wilkesboro, Wilkes County, North Carolina, United States",Wilkes County
+Oak Harbor,WA,125.2,"Oak Harbor, WA","Oak Harbor, Island County, Washington, United States",Island County
+Ocala,FL,94.5,"Ocala, FL","Ocala, Marion County, Florida, United States",Marion County
+Ocean City,NJ,109.5,"Ocean City, NJ","Ocean City, Cape May County, New Jersey, United States",Cape May County
+Odessa,TX,92.7,"Odessa, TX","Odessa, Ector County, Texas, United States",Ector County
+Ogden,UT,99.8,"Ogden, UT","Ogden, Weber County, Utah, 84403, United States",Weber County
+Ogdensburg,NY,88.3,"Ogdensburg, NY","Ogdensburg, Saint Lawrence County, New York, 13669-3913, United States",Saint Lawrence County
+Oklahoma City,OK,87.3,"Oklahoma City, OK","Oklahoma City, Oklahoma County, Oklahoma, 73104:73106, United States",Oklahoma County
+Olean,NY,89.0,"Olean, NY","Olean, Cattaraugus County, New York, 14760, United States",Cattaraugus County
+Olympia,WA,110.9,"Olympia, WA","Olympia, Thurston County, Washington, United States",Thurston County
+Omaha,NE,92.9,"Omaha, NE","Omaha, Douglas County, Nebraska, 68183, United States",Douglas County
+Opelousas,LA,86.1,"Opelousas, LA","Opelousas, St. Landry Parish, Louisiana, 70570, United States",
+Orangeburg,SC,85.3,"Orangeburg, SC","Orangeburg, Orangeburg County, South Carolina, 29115, United States",Orangeburg County
+Orlando,FL,101.4,"Orlando, FL","Orlando, Orange County, Florida, United States",Orange County
+Oshkosh,WI,89.0,"Oshkosh, WI","Oshkosh, Winnebago County, Wisconsin, 54903, United States",Winnebago County
+Ottawa,IL,86.6,"Ottawa, IL","Ottawa, LaSalle County, Illinois, United States",LaSalle County
+Owensboro,KY,86.6,"Owensboro, KY","Owensboro, Daviess County, Kentucky, 42, United States",Daviess County
+Owosso,MI,84.8,"Owosso, MI","Owosso, Shiawassee County, Michigan, 48867, United States",Shiawassee County
+Paducah,KY,85.7,"Paducah, KY","Paducah, McCracken County, Kentucky, 42002, United States",McCracken County
+Palatka,FL,93.2,"Palatka, FL","Palatka, Putnam County, Florida, United States",Putnam County
+Panama City,FL,101.9,"Panama City, FL","Panama City, Bay County, Florida, United States",Bay County
+Parkersburg,WV,84.7,"Parkersburg, WV","Parkersburg, Wood County, West Virginia, United States",Wood County
+Pensacola,FL,97.9,"Pensacola, FL","Pensacola, Escambia County, Florida, 32501, United States",Escambia County
+Peoria,IL,86.7,"Peoria, IL","Peoria, Peoria County, Illinois, United States",Peoria County
+Philadelphia,PA,103.4,"Philadelphia, PA","Philadelphia, Philadelphia County, Pennsylvania, United States",Philadelphia County
+Phoenix,AZ,104.3,"Phoenix, AZ","Phoenix, Maricopa County, Arizona, 85004-1905, United States",Maricopa County
+Pine Bluff,AR,82.3,"Pine Bluff, AR","Pine Bluff, Jefferson County, Arkansas, 71601, United States",Jefferson County
+Pittsburgh,PA,93.1,"Pittsburgh, PA","Pittsburgh, Allegheny County, Pennsylvania, United States",Allegheny County
+Pittsfield,MA,106.4,"Pittsfield, MA","Pittsfield, Berkshire County, Massachusetts, United States",Berkshire County
+Plattsburgh,NY,93.7,"Plattsburgh, NY","Plattsburgh, Clinton County, New York, 12901, United States",Clinton County
+Pocatello,ID,90.8,"Pocatello, ID","Pocatello, Bannock County, Idaho, United States",Bannock County
+Port Angeles,WA,109.1,"Port Angeles, WA","Port Angeles, Clallam County, Washington, 98362, United States",Clallam County
+Port St. Lucie,FL,101.1,"Port St. Lucie, FL","Port Saint Lucie, Saint Lucie County, Florida, United States",Saint Lucie County
+Portland,ME,113.0,"Portland, ME","Portland, Cumberland County, Maine, United States",Cumberland County
+Portland,OR,116.5,"Portland, OR","Portland, Multnomah County, Oregon, United States",Multnomah County
+Portsmouth,OH,84.7,"Portsmouth, OH","Portsmouth, Scioto County, Ohio, United States",Scioto County
+Pottsville,PA,87.0,"Pottsville, PA","Pottsville, Schuylkill County, Pennsylvania, 17901, United States",Schuylkill County
+Prescott,AZ,104.6,"Prescott, AZ","Prescott, Yavapai County, Arizona, United States",Yavapai County
+Providence,RI,111.5,"Providence, RI","Providence, Providence County, Rhode Island, United States",Providence County
+Provo,UT,100.9,"Provo, UT","Provo, Utah County, Utah, 84606, United States",Utah County
+Pueblo,CO,92.2,"Pueblo, CO","Pueblo, Pueblo County, Colorado, 81003, United States",Pueblo County
+Punta Gorda,FL,100.3,"Punta Gorda, FL","Punta Gorda, Charlotte County, Florida, United States",Charlotte County
+Quincy,IL,87.3,"Quincy, IL","Quincy, Adams County, Illinois, 62301, United States",Adams County
+Racine,WI,90.9,"Racine, WI","Racine, Racine County, Wisconsin, United States",Racine County
+Raleigh,NC,99.7,"Raleigh, NC","Raleigh, Wake County, North Carolina, United States",Wake County
+Rapid City,SD,94.2,"Rapid City, SD","Rapid City, Pennington County, South Dakota, United States",Pennington County
+Reading,PA,96.0,"Reading, PA","Reading, Berks County, Pennsylvania, United States",Berks County
+Redding,CA,108.7,"Redding, CA","Redding, Shasta County, California, 96049-6073, United States",Shasta County
+Reno,NV,107.4,"Reno, NV","Reno, Washoe County, Nevada, United States",Washoe County
+Richmond,IN,84.2,"Richmond, IN","Richmond, Wayne County, Indiana, 47374, United States",Wayne County
+Richmond,VA,99.2,"Richmond, VA","Richmond, Virginia, United States",
+Richmond,KY,90.8,"Richmond, KY","Richmond, Madison County, Kentucky, 40475, United States",Madison County
+Riverside,CA,116.1,"Riverside, CA","Riverside, Riverside County, California, United States",Riverside County
+Roanoke Rapids,NC,83.1,"Roanoke Rapids, NC","Roanoke Rapids, Halifax County, North Carolina, United States",Halifax County
+Roanoke,VA,94.1,"Roanoke, VA","Roanoke, Virginia, United States",
+Rochester,MN,97.3,"Rochester, MN","Rochester, Olmsted County, Minnesota, United States",Olmsted County
+Rochester,NY,96.6,"Rochester, NY","Rochester, Monroe County, New York, United States",Monroe County
+Rockford,IL,87.2,"Rockford, IL","Rockford, Rockford Township, Winnebago County, Illinois, 61104, United States",Winnebago County
+Rocky Mount,NC,88.3,"Rocky Mount, NC","Rocky Mount, Edgecombe County, North Carolina, United States",Edgecombe County
+Rome,GA,89.6,"Rome, GA","Rome, Floyd County, Georgia, United States",Floyd County
+Roseburg,OR,100.8,"Roseburg, OR","Roseburg, Douglas County, Oregon, United States",Douglas County
+Roswell,NM,86.3,"Roswell, NM","Roswell, Chaves County, New Mexico, 88201, United States",Chaves County
+Russellville,AR,85.5,"Russellville, AR","Russellville, Pope County, Arkansas, United States",Pope County
+Sacramento,CA,120.3,"Sacramento, CA","Sacramento, Sacramento County, California, United States",Sacramento County
+Saginaw,MI,84.0,"Saginaw, MI","City of Saginaw, Saginaw County, Michigan, United States",Saginaw County
+Salem,OR,105.8,"Salem, OR","Salem, Marion County, Oregon, United States",Marion County
+Salinas,CA,138.3,"Salinas, CA","Salinas, Monterey County, California, 93901, United States",Monterey County
+Salisbury,MD,103.2,"Salisbury, MD","Salisbury, Wicomico County, Maryland, 21803, United States",Wicomico County
+Salt Lake City,UT,105.9,"Salt Lake City, UT","Salt Lake City, Salt Lake County, Utah, 84139, United States",Salt Lake County
+San Angelo,TX,90.7,"San Angelo, TX","San Angelo, Tom Green County, Texas, 76903, United States",Tom Green County
+San Antonio,TX,92.7,"San Antonio, TX","San Antonio, Bexar County, Texas, 78205, United States",Bexar County
+San Diego,CA,136.2,"San Diego, CA","San Diego, San Diego County, California, 92101, United States",San Diego County
+San Francisco,CA,178.6,"San Francisco, CA","San Francisco, California, United States",
+San Jose,CA,173.5,"San Jose, CA",,
+San Luis Obispo,CA,136.1,"San Luis Obispo, CA","San Luis Obispo County, California, United States",San Luis Obispo County
+Sandusky,OH,90.8,"Sandusky, OH","Sandusky, Erie County, Ohio, 44870, United States",Erie County
+Santa Cruz,CA,163.9,"Santa Cruz, CA","Santa Cruz County, California, United States",Santa Cruz County
+Santa Fe,NM,105.1,"Santa Fe, NM","Santa Fe, Santa Fe County, New Mexico, United States",Santa Fe County
+Santa Rosa,CA,141.7,"Santa Rosa, CA","Santa Rosa, Sonoma County, California, 95402, United States",Sonoma County
+Savannah,GA,97.3,"Savannah, GA","Savannah, Chatham County, Georgia, United States",Chatham County
+Scranton,PA,91.3,"Scranton, PA","Scranton, Dunmore, Lackawanna County, Pennsylvania, United States",Lackawanna County
+Searcy,AR,85.4,"Searcy, AR","Searcy County, Arkansas, United States",Searcy County
+Seattle,WA,124.6,"Seattle, WA","Seattle, King County, Washington, United States",King County
+Sebring,FL,93.1,"Sebring, FL","Sebring, Highlands County, Florida, 33871, United States",Highlands County
+Seneca,SC,94.0,"Seneca, SC","Seneca, Oconee County, South Carolina, United States",Oconee County
+Sevierville,TN,103.5,"Sevierville, TN","Sevierville, Sevier County, Tennessee, United States",Sevier County
+Shawnee,OK,82.4,"Shawnee, OK","Shawnee, Pottawatomie County, Oklahoma, 74801, United States",Pottawatomie County
+Sheboygan,WI,89.7,"Sheboygan, WI","Sheboygan, Sheboygan County, Wisconsin, 53081, United States",Sheboygan County
+Shelby,NC,88.1,"Shelby, NC","Shelby, Cleveland County, North Carolina, 28150, United States",Cleveland County
+Shelton,WA,109.6,"Shelton, WA","Shelton, Mason County, Washington, United States",Mason County
+Sherman,TX,91.3,"Sherman, TX","Sherman County, Texas, United States",Sherman County
+Show Low,AZ,101.9,"Show Low, AZ","Show Low, Navajo County, Arizona, 85901, United States",Navajo County
+Shreveport,LA,85.8,"Shreveport, LA","Shreveport, Caddo Parish, Louisiana, United States",
+Sierra Vista,AZ,93.2,"Sierra Vista, AZ","Sierra Vista, Cochise County, Arizona, United States",Cochise County
+Sioux City,IA,87.1,"Sioux City, IA","Sioux City, Woodbury County, Iowa, 51101, United States",Woodbury County
+Sioux Falls,SD,92.8,"Sioux Falls, SD","Sioux Falls, Minnehaha County, South Dakota, United States",Minnehaha County
+Somerset,PA,89.3,"Somerset, PA","Somerset, Somerset County, Pennsylvania, United States",Somerset County
+South Bend,IN,87.2,"South Bend, IN","South Bend, Saint Joseph County, Indiana, 46601:46615, United States",Saint Joseph County
+Spartanburg,SC,91.0,"Spartanburg, SC","Spartanburg, Spartanburg County, South Carolina, 29305, United States",Spartanburg County
+Spokane,WA,100.4,"Spokane, WA","Spokane, Spokane County, Washington, United States",Spokane County
+Springfield,IL,87.5,"Springfield, IL","Springfield, Sangamon County, Illinois, United States",Sangamon County
+Springfield,MA,106.5,"Springfield, MA","Springfield, Hampden County, Massachusetts, United States",Hampden County
+Springfield,MO,86.7,"Springfield, MO","Springfield, Greene County, Missouri, United States",Greene County
+Springfield,OH,87.5,"Springfield, OH","Springfield, Clark County, Ohio, 45501, United States",Clark County
+St. Cloud,MN,95.4,"St. Cloud, MN","St. Cloud, Stearns County, Minnesota, United States",Stearns County
+St. George,UT,98.0,"St. George, UT","St. George, Washington County, Utah, United States",Washington County
+St. Joseph,MO,85.5,"St. Joseph, MO","St. Joseph, Buchanan County, Missouri, United States",Buchanan County
+St. Louis,MO,89.6,"St. Louis, MO","Saint Louis, Missouri, United States",
+State College,PA,99.8,"State College, PA","State College, Centre County, Pennsylvania, United States",Centre County
+Statesboro,GA,91.1,"Statesboro, GA","Statesboro, Bulloch County, Georgia, United States",Bulloch County
+Staunton,VA,94.5,"Staunton, VA","Staunton, Virginia, United States",
+Stevens Point,WI,91.5,"Stevens Point, WI","Stevens Point, Portage County, Wisconsin, 54881, United States",Portage County
+Stillwater,OK,86.3,"Stillwater, OK","Stillwater, Payne County, Oklahoma, 74077, United States",Payne County
+Stockton,CA,113.6,"Stockton, CA","Stockton, San Joaquin County, California, United States",San Joaquin County
+Sumter,SC,88.1,"Sumter, SC","Sumter, Sumter County, South Carolina, United States",Sumter County
+Sunbury,PA,88.6,"Sunbury, PA","Sunbury, Northumberland County, Pennsylvania, 17801, United States",Northumberland County
+Syracuse,NY,95.1,"Syracuse, NY","City of Syracuse, Onondaga County, New York, United States",Onondaga County
+Talladega,AL,87.4,"Talladega, AL","Talladega County, Alabama, United States",Talladega County
+Tallahassee,FL,96.4,"Tallahassee, FL","Tallahassee, Leon County, Florida, 32399-1300, United States",Leon County
+Tampa,FL,101.4,"Tampa, FL","Tampa, Hillsborough County, Florida, United States",Hillsborough County
+Terre Haute,IN,84.7,"Terre Haute, IN","Terre Haute, Vigo County, Indiana, 47809, United States",Vigo County
+Texarkana,TX,86.3,"Texarkana, TX","Texarkana, TX, Bowie County, Texas, United States",Bowie County
+The Villages,FL,100.7,"The Villages, FL","The Villages, Sumter County, Florida, United States",Sumter County
+Toledo,OH,87.5,"Toledo, OH","Toledo, Lucas County, Ohio, 43659, United States",Lucas County
+Topeka,KS,85.6,"Topeka, KS","Topeka, Shawnee County, Kansas, 66603-3758, United States",Shawnee County
+Torrington,CT,105.2,"Torrington, CT","Torrington, Litchfield County, Connecticut, United States",Litchfield County
+Traverse City,MI,99.6,"Traverse City, MI","Traverse City, Grand Traverse County, Michigan, United States",Grand Traverse County
+Trenton,NJ,104.3,"Trenton, NJ","Trenton, Mercer County, New Jersey, United States",Mercer County
+Truckee,CA,132.8,"Truckee, CA","Truckee, Nevada County, California, 96161, United States",Nevada County
+Tucson,AZ,97.7,"Tucson, AZ","Tucson, Pima County, Arizona, 85701, United States",Pima County
+Tullahoma,TN,88.7,"Tullahoma, TN","Tullahoma, Coffee County, Tennessee, 37388, United States",Coffee County
+Tulsa,OK,86.7,"Tulsa, OK","Tulsa, Tulsa County, Oklahoma, 74172, United States",Tulsa County
+Tupelo,MS,87.2,"Tupelo, MS","Tupelo, Lee County, Mississippi, 38804, United States",Lee County
+Tuscaloosa,AL,91.0,"Tuscaloosa, AL","Tuscaloosa, Tuscaloosa County, Alabama, United States",Tuscaloosa County
+Twin Falls,ID,91.2,"Twin Falls, ID","Twin Falls, Twin Falls County, Idaho, 83301, United States",Twin Falls County
+Tyler,TX,92.8,"Tyler, TX","Tyler, Smith County, Texas, United States",Smith County
+Ukiah,CA,128.0,"Ukiah, CA","Ukiah, Mendocino County, California, 95482, United States",Mendocino County
+Utica,NY,94.1,"Utica, NY","City of Utica, Oneida County, New York, United States",Oneida County
+Valdosta,GA,89.2,"Valdosta, GA","Valdosta, Lowndes County, Georgia, United States",Lowndes County
+Vallejo,CA,125.2,"Vallejo, CA","Vallejo, Solano County, California, 94590, United States",Solano County
+Vineland,NJ,97.8,"Vineland, NJ","Vineland, Cumberland County, New Jersey, United States",Cumberland County
+Virginia Beach,VA,99.0,"Virginia Beach, VA","Virginia Beach, Virginia, United States",
+Visalia,CA,103.6,"Visalia, CA","Visalia, Tulare County, California, United States",Tulare County
+Waco,TX,89.5,"Waco, TX","Waco, McLennan County, Texas, United States",McLennan County
+Walla Walla,WA,100.9,"Walla Walla, WA","Walla Walla, Walla Walla County, Washington, United States",Walla Walla County
+Warner Robins,GA,90.5,"Warner Robins, GA","Warner Robins, Houston County, Georgia, 31098, United States",Houston County
+Warsaw,IN,92.3,"Warsaw, IN","Warsaw, Kosciusko County, Indiana, 4650, United States",Kosciusko County
+Washington,DC,120.1,"Washington, DC","Washington, District of Columbia, United States",
+Waterloo,IA,87.6,"Waterloo, IA","Waterloo, Black Hawk County, Iowa, 50701-1334, United States",Black Hawk County
+Watertown,WI,97.1,"Watertown, WI","Watertown, Jefferson County, Wisconsin, 53094, United States",Jefferson County
+Watertown,NY,96.4,"Watertown, NY","Watertown, Jefferson County, New York, 13601, United States",Jefferson County
+Wausau,WI,88.9,"Wausau, WI","Wausau, Marathon County, Wisconsin, United States",Marathon County
+Wenatchee,WA,106.6,"Wenatchee, WA","Wenatchee, Chelan County, Washington, United States",Chelan County
+Whitewater,WI,97.7,"Whitewater, WI","Whitewater, Walworth County, Wisconsin, 53190-1620, United States",Walworth County
+Wichita Falls,TX,85.7,"Wichita Falls, TX","Wichita Falls, Wichita County, Texas, 76307, United States",Wichita County
+Wichita,KS,86.8,"Wichita, KS","Wichita, Sedgwick County, Kansas, 67202, United States",Sedgwick County
+Williamsport,PA,93.4,"Williamsport, PA","Williamsport, Lycoming County, Pennsylvania, 17701, United States",Lycoming County
+Wilmington,NC,99.0,"Wilmington, NC","Wilmington, New Hanover County, North Carolina, United States",New Hanover County
+Wilson,NC,86.3,"Wilson, NC","Wilson, Wilson County, North Carolina, United States",Wilson County
+Winchester,VA,97.2,"Winchester, VA","Winchester, Virginia, United States",
+Winston-Salem,NC,91.2,"Winston-Salem, NC","Winston-Salem, Forsyth County, North Carolina, United States",Forsyth County
+Wooster,OH,95.5,"Wooster, OH","Wooster, Wayne County, Ohio, 44691, United States",Wayne County
+Worcester,MA,113.2,"Worcester, MA","Worcester, Worcester County, Massachusetts, United States",Worcester County
+Yakima,WA,97.5,"Yakima, WA","Yakima, Yakima County, Washington, 98901, United States",Yakima County
+York,PA,95.8,"York, PA","York, South George Street, Northwest Triangle, York, York County, Pennsylvania, 17403, United States",York County
+Youngstown,OH,86.4,"Youngstown, OH","Youngstown, Mahoning County, Ohio, United States",Mahoning County
+Yuba City,CA,108.7,"Yuba City, CA","Yuba City, Sutter County, California, United States",Sutter County
+Yuma,AZ,94.5,"Yuma, AZ","Yuma, Yuma County, Arizona, United States",Yuma County
+Zanesville,OH,87.6,"Zanesville, OH","Zanesville, Muskingum County, Ohio, 43701, United States",Muskingum County
+Bloomington,IL,89.0,"Bloomington, IL","Bloomington, McLean County, Illinois, United States",McLean County
+California,MD,104.8,"California, MD","California, Lexington Park, Saint Mary's County, Maryland, 20619-2488, United States",Saint Mary's County
+Crestview,FL,104.7,"Crestview, FL","Crestview, Okaloosa County, Florida, United States",Okaloosa County
+Glenwood Springs,CO,127.8,"Glenwood Springs, CO","Glenwood Springs, Garfield County, Colorado, 81601, United States",Garfield County
+Greenfield Town,MA,106.2,"Greenfield Town, MA","Greenfield, Phillip's Town, Tir-Phil, Brithdir, New Tredegar, Caerphilly, Cymru / Wales, NP24 6LH, United Kingdom",
+Hermiston,OR,97.9,"Hermiston, OR","Hermiston, Umatilla County, Oregon, 97838, United States",Umatilla County
+Holland,MI,96.2,"Holland, MI","Holland, Ottawa County, Michigan, 49423, United States",Ottawa County
+Jefferson,GA,97.4,"Jefferson, GA","Jefferson, Jackson County, Georgia, 30549, United States",Jackson County
+Lafayette,IN,88.7,"Lafayette, IN","Lafayette (E), IN, North 3rd Street, Lafayette, Tippecanoe County, Indiana, 47902, United States",Tippecanoe County
+Los Angeles,CA,140.6,"Los Angeles, CA","Los Angeles, Los Angeles County, California, United States",Los Angeles County
+Sarasota,FL,104.4,"Sarasota, FL","Sarasota, Sarasota County, Florida, 34321, United States",Sarasota County
+Salem,OH,86.6,"Salem, OH","Salem, Columbiana County, Ohio, 44460, United States",Columbiana County
+Santa Maria,CA,143.0,"Santa Maria, CA",,
+Honolulu,HI,158.0,"Honolulu, HI","Honolulu, Honolulu County, Hawaii, United States",Honolulu County
+Wisconsin Rapids,WI,86.9,"Wisconsin Rapids, WI","Wisconsin Rapids, Wood County, Wisconsin, United States",Wood County
+Stamford,CT,119.2,"Stamford, CT","Stamford, Fairfield County, Connecticut, United States",Fairfield County
+Fort Myers,FL,101.5,"Fort Myers, FL","Fort Myers, Lee County, Florida, United States",Lee County
+Dallas,TX,98.5,"Dallas, TX","Dallas, Dallas County, Texas, United States",Dallas County
+Davenport,IA,87.2,"Davenport, IA","Davenport, Scott County, Iowa, 52801, United States",Scott County
+Daytona Beach,FL,99.6,"Daytona Beach, FL","Daytona Beach, Volusia County, Florida, United States",Volusia County
+Hagerstown,MD,99.7,"Hagerstown, MD","Hagerstown, Washington County, Maryland, United States",Washington County
+Logan,UT,95.2,"Logan, UT","Logan, Cache County, Utah, United States",Cache County
+Louisville,KY,91.6,"Louisville, KY","Louisville, Jefferson County, Kentucky, 40202-2923, United States",Jefferson County
+Miami,FL,110.1,"Miami, FL","Miami, Miami-Dade County, Florida, United States",Miami-Dade County
+Minneapolis,MN,105.4,"Minneapolis, MN","Minneapolis, Hennepin County, Minnesota, 55488, United States",Hennepin County
+Ventura,CA,132.2,"Ventura, CA","Ventura County, California, United States",Ventura County
+Melbourne,FL,99.3,"Melbourne, FL","Melbourne, Brevard County, Florida, United States",Brevard County
+Vero Beach,FL,98.9,"Vero Beach, FL","Vero Beach, Indian River County, Florida, United States",Indian River County
+Weirton,WV,82.6,"Weirton, WV","Weirton, Hancock County, West Virginia, 26062-4500, United States",Hancock County
+Wheeling,WV,84.1,"Wheeling, WV","Wheeling, Ohio County, West Virginia, 26003, United States",Ohio County
+New London,CT,105.9,"New London, CT","New London, New London County, Connecticut, 06320, United States",New London County
+Daphne,AL,96.6,"Daphne, AL","Daphne, Baldwin County, Alabama, 35626, United States",Baldwin County
+Victoria,TX,89.5,"Victoria, TX","Victoria County, Texas, United States",Victoria County
+Aberdeen,WA,97.6,"Aberdeen, WA","Aberdeen, Grays Harbor County, Washington, 98537-0525, United States",Grays Harbor County
